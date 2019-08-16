@@ -18,10 +18,15 @@ Features
 - Used ``async`` and ``await``
 - We working hard to keep 24/7 Uptime
 
-Contents
---------
+.. _test:
+
+====
+Test
+====
 
 :ref:`test`
-   
+
+:ref:`Stuff about <test>`
+
 :ref:`genindex`
 :ref:`search`
