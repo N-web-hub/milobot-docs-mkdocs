@@ -21,10 +21,7 @@ Features
 Contents
 --------
 
-.. toctree::
-   :maxdepth: 2
-   
-   test
+:ref:`test`
    
 :ref:`genindex`
 :ref:`search`
