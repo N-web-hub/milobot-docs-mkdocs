@@ -18,15 +18,10 @@ Features
 - Used ``async`` and ``await``
 - We working hard to keep 24/7 Uptime
 
-.. _test:
-
-====
-Test
-====
-
-:ref:`test`
-
-:ref:`Stuff about <test>`
+.. toctree:
+   
+   test
 
 :ref:`genindex`
+
 :ref:`search`
